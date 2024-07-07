@@ -1,0 +1,16 @@
+body {
+	background:whitesmoke
+}
+.post{
+        width: 35%;
+        background: #ddd;
+        margin: auto;
+    }
+.post-header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+img{
+        width: 100%;
+ }
